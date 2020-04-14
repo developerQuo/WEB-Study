@@ -1,7 +1,7 @@
 # WEB-Study
 
 ## 목차
-1. [www] (#www)
+1. [www](#www)
 2. web protocol
 3. w3c 웹 표준
 4. HTTP/HTTPS
