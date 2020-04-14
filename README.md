@@ -1,7 +1,7 @@
 # WEB-Study
 
-## 목차 
-1.[www] (#www)
+## 목차   
+1. [www] (#www)
 2. web protocol
 .3 w3c 웹 표준
 4. HTTP/HTTPS
@@ -18,3 +18,10 @@
 15. CDN
 
 * ### www
+	+ 정의: 인터넷상에서 URL로 구분되는 웹자원을 찾는 정보 시스템.
+	+ 관련 용어
+		- URL
+		- hypertext
+		- web brower
+		- web server
+		- HTML
